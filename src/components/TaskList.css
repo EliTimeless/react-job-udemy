@@ -1,0 +1,35 @@
+.tasklist {
+  font-family: "Ubuntu", sans-serif;
+  color: #2d2d2d;
+}
+
+.tasklist .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tasklist h1 {
+  font-size: 28px;
+  text-align: center;
+  margin: 20px;
+}
+
+.tasklist ul {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border: solid 3px #f0ef9c;
+  border-radius: 3px;
+  background-color: white;
+}
+
+.tasklist button.trigger {
+  font-size: 16px;
+  border: 0px;
+  border-radius: 3px;
+  background-color: #f5f24c;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-family: "Ubuntu", sans-serif;
+}

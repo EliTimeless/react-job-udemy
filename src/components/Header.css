@@ -1,0 +1,24 @@
+img {
+  max-width: 40px;
+  max-height: 50px;
+}
+header {
+  color: #2d2d2d;
+  font-family: "Ubuntu", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  align-items: center;
+  max-width: 1000px;
+  margin: auto;
+  border-bottom: 1px solid #d7d7d7;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: solid 7px #faf73d;
+}
+
+header h2 {
+  color: #faf73d;
+  font-size: 33px;
+}

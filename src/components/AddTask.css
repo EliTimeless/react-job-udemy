@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+.addtask {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  border: solid 3px #f0ef9c;
+  border-radius: 3px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.addtask form {
+  color: #2d2d2d;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  all: unset;
+}
+
+.addtask label {
+  color: #2d2d2d;
+  font-size: 22px;
+  margin-right: 5px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.addtask input {
+  color: #2d2d2d;
+  font-size: 18px;
+  padding: 7px;
+  border: 1px solid #878787;
+  border-radius: 5px;
+  flex-grow: 1;
+  margin: 10px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.addtask input:focus {
+  outline: none;
+  color: #7021ad;
+}
+
+.addtask select {
+  font-size: 18px;
+  padding: 7px;
+  border-radius: 5px;
+  margin: 10px;
+  cursor: pointer;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.addtask button {
+  font-size: 18px;
+  padding: 7px 10px;
+  margin: 10px;
+  background-color: #faf617;
+  border-radius: 3px;
+  cursor: pointer;
+  border: none;
+  font-family: "Ubuntu", sans-serif;
+}
