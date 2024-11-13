@@ -12,7 +12,7 @@ Check out the live version of the app: [Task Mate](https://task-mate-react-elisk
 - Edit existing tasks and notes
 - Delete tasks and notes
 - Responsive design for mobile and desktop
-- Built with React and Tailwind
+- Built with React
 
 📝  Installation
 
